@@ -8,7 +8,12 @@ VersionName: "1"
 # Introdução
 Calculando se vale a pena colocar Gasolina ou Álcool
 
-![Aplicativo 1](img_readme/v1.png)
+| Tela 1     | Tela 2     |  
+| ------------- | ------------- |
+|![Aplicativo 1](img_readme/v1.png)|![Aplicativo 1](img_readme/v1.1.png)|
+|![Aplicativo 1](img_readme/v1.2.png)|![Aplicativo 1](img_readme/v1.3.png)|
+
+
 
 
 # Authors
