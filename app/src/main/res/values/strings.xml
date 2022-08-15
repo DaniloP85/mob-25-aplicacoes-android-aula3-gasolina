@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">Calculadora de Combustivel</string>
+    <string name="contentDescription">Alcool ou Gasolina</string>
     <string name="alcool_gasolina">Alcool ou Gasolina</string>
-    <string name="melhor_opcao">Melhor opção para o seu carro</string>
+    <string name="melhor_opcao">Vamos cácular a melhor opção para o seu carro</string>
+    <string name="nome">Digite seu nome</string>
     <string name="preco_alcool">Preço do Alcool R$ 3.70</string>
     <string name="preco_gasolina">Preço da Gasolina R$ 5.75</string>
     <string name="calcular">Calcular</string>
